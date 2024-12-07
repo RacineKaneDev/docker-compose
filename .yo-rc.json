@@ -1,0 +1,15 @@
+{
+  "generator-jhipster": {
+    "adminPassword": "admin",
+    "appsFolders": ["gateway", "blog", "store"],
+    "clusteredDbApps": [],
+    "deploymentType": "docker-compose",
+    "directoryPath": "../",
+    "dockerRepositoryName": "jmicro",
+    "gatewayType": "SpringCloudGateway",
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "MTU2ZTA5OWRmYTZjMmE2ZTU5MmE5NjViM2QxMzkzYmIzZDkwMTU5MDM4ZjE4ODIxYWU5ZGQyN2I0MTNlY2QxMDA5Y2RhZTUzM2I1MDFjOWViZjQyYjM5NmZmODFlNTQyODgwYw==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "consul"
+  }
+}
